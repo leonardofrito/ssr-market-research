@@ -1,0 +1,98 @@
+{
+  "language": "en",
+  "reference": "arXiv:2510.08338 (6 Likert 1-5 anchor sets + 3 Order Bump/Add-on anchor sets)",
+  "purchase_intent_sets": [
+    {
+      "id": "en_1_direct",
+      "anchors": {
+        "1": "I would definitely not buy this product.",
+        "2": "I would probably not buy this product.",
+        "3": "I am not sure whether I would buy this product or not.",
+        "4": "I would probably buy this product.",
+        "5": "I would definitely buy this product."
+      }
+    },
+    {
+      "id": "en_2_everyday",
+      "anchors": {
+        "1": "This is definitely not for me and I would not spend my money on it.",
+        "2": "It is rather unlikely that I would pay for this offer right now.",
+        "3": "I am on the fence; I might buy it, or I might pass.",
+        "4": "I would very likely purchase this offer.",
+        "5": "I would buy this without thinking twice."
+      }
+    },
+    {
+      "id": "en_3_interest",
+      "anchors": {
+        "1": "I have no interest at all in purchasing this.",
+        "2": "I have low interest and would rarely consider buying it.",
+        "3": "Some parts look interesting, but I still have doubts about whether it is worth buying.",
+        "4": "This caught my interest and there is a good chance I would buy it.",
+        "5": "This is exactly what I needed and I would buy it today."
+      }
+    },
+    {
+      "id": "en_4_wallet",
+      "anchors": {
+        "1": "There is no way I would pay this price for this offer.",
+        "2": "I do not think it is worth opening my wallet right now.",
+        "3": "I am torn between paying for this or using free alternatives.",
+        "4": "It looks worth the price and I would probably buy it.",
+        "5": "It is great value and I would definitely pay for it."
+      }
+    },
+    {
+      "id": "en_5_natural",
+      "anchors": {
+        "1": "Hard pass, I see no reason to buy this.",
+        "2": "It looks decent, but honestly I would not buy it.",
+        "3": "Maybe I would consider it later, but I am not convinced yet.",
+        "4": "It convinced me well and I would probably go ahead and buy.",
+        "5": "I really love this offer and I am definitely buying it."
+      }
+    },
+    {
+      "id": "en_6_likelihood",
+      "anchors": {
+        "1": "The likelihood of me buying this is practically zero.",
+        "2": "The likelihood of me buying this is low.",
+        "3": "The likelihood of me buying this is fifty-fifty.",
+        "4": "The likelihood of me buying this is high.",
+        "5": "The likelihood of me buying this is extremely high, almost certain."
+      }
+    }
+  ],
+  "order_bump_sets": [
+    {
+      "id": "ob_en_1",
+      "anchors": {
+        "1": "I would definitely not check this add-on box or pay extra at checkout.",
+        "2": "I would probably skip this add-on at checkout.",
+        "3": "I am unsure whether I would add this optional extra or not.",
+        "4": "I would probably check the box and include this add-on at checkout.",
+        "5": "I would definitely check the box and pay extra for this add-on."
+      }
+    },
+    {
+      "id": "ob_en_2",
+      "anchors": {
+        "1": "I have zero interest in this optional extra and would leave it unchecked.",
+        "2": "I would likely stick to the base offer without the add-on.",
+        "3": "I might add it or I might skip it at checkout.",
+        "4": "For that small extra price, I would very likely include this add-on.",
+        "5": "No-brainer add-on; I would include it in my order immediately."
+      }
+    },
+    {
+      "id": "ob_en_3",
+      "anchors": {
+        "1": "No way I would add this optional upgrade to my order.",
+        "2": "It is unlikely I would tick this checkout bump.",
+        "3": "I am split between adding the bump and buying only the main offer.",
+        "4": "There is a high chance I would add this bump at checkout.",
+        "5": "I would certainly bundle this checkout bump with the main offer."
+      }
+    }
+  ]
+}

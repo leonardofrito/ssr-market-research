@@ -1,0 +1,98 @@
+{
+  "idioma": "pt-BR",
+  "referencia": "arXiv:2510.08338 (6 conjuntos de âncoras Likert 1-5 + 3 conjuntos para Order Bump/Add-on)",
+  "conjuntos_intencao_compra": [
+    {
+      "id": "pt_1_direto",
+      "ancoras": {
+        "1": "Com certeza eu não compraria esse produto.",
+        "2": "Provavelmente eu não compraria esse produto.",
+        "3": "Não tenho certeza se eu compraria ou não esse produto.",
+        "4": "Provavelmente eu compraria esse produto.",
+        "5": "Com certeza eu compraria esse produto."
+      }
+    },
+    {
+      "id": "pt_2_cotidiano",
+      "ancoras": {
+        "1": "Isso definitivamente não é para mim e eu não gastaria meu dinheiro nisso.",
+        "2": "Eu acho difícil eu pagar por essa oferta agora.",
+        "3": "Fico em cima do muro; talvez eu comprasse, talvez eu deixasse passar.",
+        "4": "Eu bem provavelmente compraria essa oferta.",
+        "5": "Eu compraria isso sem pensar duas vezes."
+      }
+    },
+    {
+      "id": "pt_3_interesse_acao",
+      "ancoras": {
+        "1": "Não tenho nenhum interesse em comprar isso.",
+        "2": "Tenho pouco interesse e dificilmente faria a compra.",
+        "3": "Achei interessante em alguns pontos, mas ainda tenho dúvidas se vale a pena comprar.",
+        "4": "Me interessou bastante e existe uma boa chance de eu comprar.",
+        "5": "É exatamente o que eu precisava e eu compraria hoje mesmo."
+      }
+    },
+    {
+      "id": "pt_4_decisao_bolso",
+      "ancoras": {
+        "1": "De jeito nenhum eu pagaria esse valor por essa oferta.",
+        "2": "Acho que não compensa o suficiente para eu abrir a carteira agora.",
+        "3": "Estou dividido entre pagar por isso ou buscar alternativas gratuitas.",
+        "4": "Parece valer a pena pelo preço e eu provavelmente compraria.",
+        "5": "Vale muito a pena e eu com certeza pagaria por isso."
+      }
+    },
+    {
+      "id": "pt_5_natural_br",
+      "ancoras": {
+        "1": "Passo longe, não vejo motivo nenhum para comprar isso.",
+        "2": "Até parece legal, mas sendo sincero eu não compraria.",
+        "3": "Talvez eu até considerasse comprar depois, mas não estou convencido ainda.",
+        "4": "Me convenceu bem e eu provavelmente compraria sim.",
+        "5": "Gostei demais da proposta e com certeza vou comprar."
+      }
+    },
+    {
+      "id": "pt_6_probabilidade",
+      "ancoras": {
+        "1": "A chance de eu comprar isso é praticamente zero.",
+        "2": "A chance de eu comprar isso é baixa.",
+        "3": "A chance de eu comprar isso é meio a meio.",
+        "4": "A chance de eu comprar isso é alta.",
+        "5": "A chance de eu comprar isso é altíssima, praticamente certa."
+      }
+    }
+  ],
+  "conjuntos_order_bump": [
+    {
+      "id": "ob_pt_1",
+      "ancoras": {
+        "1": "Com certeza eu não marcaria essa opção extra nem pagaria a mais no checkout.",
+        "2": "Provavelmente eu não adicionaria esse extra no checkout.",
+        "3": "Ficaria em dúvida se adicionaria ou não esse opcional no checkout.",
+        "4": "Provavelmente eu marcaria a caixinha e adicionaria esse extra no checkout.",
+        "5": "Com certeza eu marcaria a caixinha e pagaria o valor extra por esse adicional."
+      }
+    },
+    {
+      "id": "ob_pt_2",
+      "ancoras": {
+        "1": "Não tenho nenhum interesse nesse adicional; deixaria desmarcado sem pensar.",
+        "2": "Acho difícil eu incluir esse extra, prefiro ficar só com a oferta principal.",
+        "3": "Talvez eu incluísse esse adicional, talvez deixasse passar.",
+        "4": "Vale bem a pena pelo valor extra e eu bem provavelmente incluiria esse opcional.",
+        "5": "Sem pensar duas vezes eu adicionaria esse extra no meu pedido."
+      }
+    },
+    {
+      "id": "ob_pt_3",
+      "ancoras": {
+        "1": "De jeito nenhum eu incluiria esse adicional no meu pedido.",
+        "2": "Dificilmente eu adicionaria esse opcional no checkout.",
+        "3": "Estou dividido entre incluir o opcional ou levar só a oferta base.",
+        "4": "A chance de eu marcar esse adicional no checkout é alta.",
+        "5": "Com certeza eu incluiria esse adicional junto com a oferta principal."
+      }
+    }
+  ]
+}
